@@ -1,8 +1,4 @@
-import styles from "./App.module.scss";
 import { useState, useRef } from "react";
-import Hello from "./Hello.tsx";
-import Bye from "./Bye.tsx";
-import InputSample from "./InputSample.tsx";
 import UserList from "./UserList.tsx";
 import CreateUser from "./CreateUser.tsx";
 
